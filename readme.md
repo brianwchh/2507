@@ -1235,6 +1235,20 @@
 
     </div>
 
+    <!-- image area, flex to make it center,it may not work for github, for html and pdf rendering only -->
+    <div align="center" style="page-break-inside: avoid; margin-top:1px; margin-bottom:1px;"> <!-- pictureWrapper_div add this only to make the bendan github understand -->
+    <div class="ImageWrapperFlex" >
+    <div class="FlexSide"  ></div>
+    <image class="FlexImage"   src='./images/蝶戀花.png'/>
+    <div class="FlexSide" ></div>
+    </div>
+
+    <span align="center" style="margin:0px;"> ***「天龍八部」*** 主題曲[**「蝶戀花」鄧紫棋演唱**](https://youtu.be/p8CB5-aUqFQ)</span> 
+
+    ><sub> 作曲：謝宇毅  &nbsp;    作詞：維谷   &nbsp;  編曲、監制：盧文韬 &nbsp; 主唱：GEM鄧紫棋 </br><sub>蝶戀花兒浴春風， Butterflies cleave to flowers bathing in spring breeze,&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </br>湖上輕舟慕詩濃。 Boating on lake, admiring poems surge.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </br> 拍翼縹煙曉雲中， Pinioning between ethereal mist & dawn clouds,&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </br>縱雨皆美醉朦朧。 Even raining are romantic as drunkenly hazy verged (on).&nbsp; &nbsp; </sub> </br></br>笑容還在眼神還在往昔　給我淡然無味枯燥年月潤色 </br> 我為那場情話那場盟誓嘆息　流淚可　化做潮汐</br>每一晚花間月下前追憶你點滴　感觸恩愛竟薄似翼</br></br>你仍沉睡我仍垂淚至死　一雙一對遠飛一剎留下自己</br>我在那年湖畔那船兒上記起　誰念詩　脫俗流利</br>賜給我一生跟一世廝守這天地　縱下雨月兒仍是美</br></br>兩百歲亦陶醉　記憶中會面團聚</br>誰話我這世再沒情趣　你聲音暖潤似水</br></br>同偕白髮無法和你共度這生　執子情感多刻骨震撼</br>和俗世而刀一刎雙雙拍翼　別理萬眾的炮轟</br>同偕白髮情愛唯盼夢內再生　孤清黃昏這流離的心</br>期望可下輩子再次走近　仿似蝶戀花　熱吻 </sub>
+
+    </div>
+
     </br>
 
 
@@ -1476,23 +1490,6 @@
             **<p> <font size=3>一部聊齋道真情</font> </p>**</br> 一部聊齋史，</br>勝讀百年書，</br>道不盡世間真情！</br> </br> 一部人類史，曰文明，數千年！</br>卻滿紙荒唐認知，盡藏眼淚。</br></br>從衆之猴，談情說愛，不過是</br>沐而冠之 &nbsp;廁紙數張 &nbsp;學人上青樓！ <sub>[美國猴子貨幣實驗之嫖娼](https://www.litenews.hk/news/3563-%E6%9C%89%E9%8C%A2%E5%B0%B1%E8%AE%8A%E5%A3%9E%EF%BC%9F%E7%8C%B4%E5%AD%90%E5%AD%B8%E4%BD%BF%E9%8C%A2%E6%9C%80%E5%BE%8C%E7%AB%9F%E9%80%A3%E3%80%8C%E5%AB%96%E3%80%8D%E4%B9%9F%E5%AD%B8%E6%9C%83)</sub> </br>三腿蛤蟆，滿口仁義道德！</br>曾經多少山盟海誓，勝清明，猶在耳，</br>難奈，不敵世俗流言兩三聲。</br></br>莫再言 鳥獸鬼怪妖狐 </br>不通人語，</br>不解風情。</br>君不知！</br>千年風雨，說不清世間黑白。</br>妖情更似人情多。</br> </br>無聲只因難言，</br> 知多故所成佛。</br></br>唯 人類</br>無記憶， </br> 卻妄談 世間情爲何物！</br></br>義之無情何爲義！</br>世間無愛何謂存在！</br></br>且看那</br></br>暮日墳頭鴉，聲聲斷心腸！</br>試問君，</br>看清了嗎！</br>聽懂了嗎！</br></br>妖狐已隨彩雲歸，</br>唯獨君天涯 &nbsp; 是爲</br></br>講笑話麼？！</br> </br> ***___  &nbsp; 。 ___*** </br>
 
             <sub>[一部聊齋道真情](../md_and_html/附庸風雅/一部聊齋道真情.md)<---[ 在線閱讀 ]&nbsp;&nbsp;  [本地] ---> [*_點擊此查看html網頁格式_*](../md_and_html/附庸風雅/一部聊齋道真情.html)&nbsp; &nbsp; [*_pdf格式_*](../md_and_html/附庸風雅/一部聊齋道真情.md.pdf)  </sub>
-
-            </div>
-
-
-            
-
-            </br>
-
-            <!-- image area, flex to make it center,it may not work for github, for html and pdf rendering only -->
-            <div align="center" style="page-break-inside: avoid; margin-top:1px; margin-bottom:1px;"> <!-- pictureWrapper_div add this only to make the bendan github understand -->
-            <div class="ImageWrapperFlex" >
-            <div class="FlexSide"  ></div>
-            <image class="FlexImage"   src='./images/蝶戀花.png'/>
-            <div class="FlexSide" ></div>
-            </div>
-
-            <span align="center" style="margin:0px;"> ***「天龍八部」*** 主題曲「蝶戀花」鄧紫棋演唱</span> 
 
             </div>
 
