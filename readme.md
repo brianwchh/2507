@@ -78,7 +78,17 @@
 
 # <p align=center> **前言** </p>
 
+<div align=center>
+
 </br>
+
+><sub><span>[梨花城](https://github.com/brianwchh/worldofheart_v2/blob/main/md_and_html/%E9%9B%9C%E6%96%87%E9%9A%A8%E7%AD%86/%E6%A2%A8%E8%8A%B1%E5%9F%8E.md) </br>隔岸思卿半邊臉，心中猶記滿城花。<br>灕江離人梨花雨，青山卿影親耳語。<br>一江杜娟啼心血，滿城亂世戴梨花。<br>未有青春可回首，唯有卿歌苦作舟。<br>渡我歲月千行淚，<span>**來生**</span>可是心上人？</br></br>[月語](https://github.com/brianwchh/worldofheart_v2/blob/main/md_and_html/%E9%9B%9C%E6%96%87%E9%9A%A8%E7%AD%86/%E6%9C%88%E8%AA%9E.md)</br>霞紅落盡浪千里，鳥兒飛去牽絲雨。<br>**若是月兒**藏手裏，千年佳釀千年語。<br>頭枕星辰臥聽曲，朝陽夕陽皆予你。</span></sub>
+
+</div>
+
+</br>
+</br>
+
 
 - ***你相信有人是帶着前世的記憶來到這個世界的嗎？***    
 - ***你相信[**「平行世界」**](https://youtu.be/JW52KtyGMBI)嗎？***  
