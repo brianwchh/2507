@@ -26,6 +26,14 @@
 
 ****
 
+# **鄧紫棋的求救信號**
+
+- # [**鄧紫棋的求救信號**<sub>https://github.com/brianwchh/worldofheart_v2</sub>](https://github.com/brianwchh/worldofheart_v2/blob/main/md_and_html/鄧紫棋所有歌曲暗線解說/我的祕密——鄧紫棋的求救信號.md) 
+
+</br>
+
+## 小說宣傳單
+
 ![alt text](./images/宣傳單.jpg)
 --- 
 
@@ -404,6 +412,21 @@
     <span  ><font size=5> **嘴巴一邊是魚，一邊是人，意指：獅子座的半人半魚 = 獅子座的美人魚**，獅子做的美人魚，和新加坡的那個魚尾獅好巧合，哈哈 :D </font></span> 
 
     </div> <!-- end pictureWrapper_div -->
+
+
+    <!-- image area, flex to make it center,it may not work for github, for html and pdf rendering only -->
+    <div align="center" style="page-break-inside: avoid; margin-top:1px; margin-bottom:1px;"> <!-- pictureWrapper_div add this only to make the bendan github understand -->
+    <div class="ImageWrapperFlex" >
+    <div class="FlexSide"  ></div>
+    <image class="FlexImage"   src='./images/回來真好.png'/>
+    <div class="FlexSide" ></div>
+    </div> 
+
+    <span>   </span>
+
+    </div>
+
+    
 
     <div>
 
