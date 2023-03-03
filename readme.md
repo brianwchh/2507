@@ -453,6 +453,19 @@
 
     </div> <!-- end pictureWrapper_div -->
 
+    <!-- image area, flex to make it center,it may not work for github, for html and pdf rendering only -->
+    <div align="center" style="page-break-inside: avoid; margin-top:1px; margin-bottom:1px;"> <!-- pictureWrapper_div add this only to make the bendan github understand -->
+    <div class="ImageWrapperFlex" >
+    <div class="FlexSide"  ></div>
+    <image class="FlexImage"   src='./images/如果沒有你.png'/>
+    <div class="FlexSide" ></div>
+    </div>
+
+    <span  > 2014年鄧紫棋音樂節目與2016年電影「大魚海棠」項圈的“巧合” </span> 
+
+    </div> <!-- end pictureWrapper_div -->
+
+
     </br>
 
     ></br><p align="center" ><font size=3>[**無眠月照無情門 . 失去自由的歌手**](https://github.com/brianwchh/worldofheart_v2/blob/main/md_and_html/%E7%84%A1%E7%9C%A0%E6%9C%88%E7%85%A7%E7%84%A1%E6%83%85%E9%96%80.md)</br></br></font> 天若有情天亦老</br>月似雷峯月無眠</br>西子涵淚對金山</br>日月長敲六根門 </br></br>***_-----&nbsp;。-----_***</br></br>人間有雨是多情，西湖深涵煙火人間淚。</br> </br>天無情，所以長壽如龜</br>月有心，哀人間苦，所以輾轉無眠</br>雷峯無奈，因心裏鎖着多情人</br>金山不食人間煙火，每天晨鐘又暮鼓 </br>西子心碎，涵着千年淚</br>湖畔的楊柳知，所以溫潤纏綿</br>路過的風也知，所以帶着淡淡哀怨  </br>唯獨無心的人，泛輕舟，日日酣眠至晨東 </br>無眠的人啊，日夜敲着無情的門 </br>聽得月亮的心也碎了</br>聽得太陽的心也碎了</br>輪番照着人間，長敲着六根門 </br>希望點亮每一盞心燈</br></br></br></br></br><font size=3>**西子**&nbsp; </font> </br></br> 世人皆唱東坡詞，</br>無人知我歌中淚。</br>胭脂淚痕君不見，</br>肚藏淚酒君不知。</br>法律珠鍊人中鳳，</br>舞臺深處天牢夢。</br>鍍金屠門千豬過，</br>三寸魷魚萬人舔。</br>君入西子渡津口，</br>她閱君腦千秋雪。</br> </br> ***_-----&nbsp;。-----_*** </br><sub>你無須貌美如西施</br>卻遠勝西施</br>西子很美 雷峯塔是歷史文化珍品</br>但我更希望</br><font size=5>***”西湖水乾雷峯塔倒“***</font></sub></br></p></br></br>韓國[「玩物」門電影——由真實女星死亡事件改編而成](https://baike.baidu.com/item/%E7%8E%A9%E7%89%A9/15131495) 只不過是冰山之一角之微微一角！這裏的舞臺是這個世界，講的是舞臺的背面！[<font size=4>**被迫的「魷魚遊戲」**</font>](https://youtu.be/UnGDSDRJtWQ)<sub>鄧紫棋多次暗示她在玩“遊戲”</sub></br></br>深處認知迷宮中的我，不知當下每個決定的對錯與傷害！我只知道：<u><font size=5>**對付陰謀最好的辦法就是陽謀！把祕密公之於衆，合衆人之力方能力挽狂瀾！這世界所謂政治，武力與戰爭是最沒技術含量的，歸根到底還是大腦的信息戰！**</font></u></br></br>
@@ -1108,6 +1121,19 @@
 
 
 -  <font size=4>**一些電影「大魚海棠」的熒幕照片**</font> 
+
+    <!-- image area, flex to make it center,it may not work for github, for html and pdf rendering only -->
+    <div align="center" style="page-break-inside: avoid; margin-top:1px; margin-bottom:1px;"> <!-- pictureWrapper_div add this only to make the bendan github understand -->
+    <div class="ImageWrapperFlex" >
+    <div class="FlexSide"  ></div>
+    <image class="FlexImage"   src='./images/如果沒有你.png'/>
+    <div class="FlexSide" ></div>
+    </div>
+
+    <span  > 2014年鄧紫棋音樂節目與2016年電影「大魚海棠」項圈的“巧合” </span> 
+
+    </div> <!-- end pictureWrapper_div -->
+
     <!-- image area, flex to make it center,it may not work for github, for html and pdf rendering only -->
     <div align="center" style="page-break-inside: avoid; margin-top:1px; margin-bottom:1px;"> <!-- pictureWrapper_div add this only to make the bendan github understand -->
     <div class="ImageWrapperFlex" >
@@ -1140,7 +1166,7 @@
     <div class="FlexSide" ></div>
     </div>
 
-    <span align="center" style="margin:0px;"> 2016年7月8日之879的笑話</span> 
+    <span align="center" style="margin:0px;"> **2016年7月8日之879的笑話，很巧，鄧紫棋生日8月16日，即87，bye7，再見妻。我知道你們心里怎麼想的，是的，我也覺得很無聊，但牠們真的就是一本正經地玩這麼無聊的人間遊戲。開始我也不信，直到漸漸讀懂鄧紫棋的連接信號與求救信號，以及她的呼應信號，詳見[鄧紫棋的求救信號<sub>https://github.com/brianwchh/SOSfromGEM</sub>](https://github.com/brianwchh/SOSfromGEM)，還有周圍奇怪的人，我才逐漸相信，原來這傳說中的畜生真的存在！而且是超級變態！只有這超級變態的才會玩這種無聊變態的遊戲！**</span> 
 
     </div> 
 
