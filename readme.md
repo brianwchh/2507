@@ -30,6 +30,8 @@
 
 - # [**鄧紫棋的求救信號**<sub>https://github.com/brianwchh/worldofheart_v2</sub>](https://github.com/brianwchh/worldofheart_v2/blob/main/md_and_html/鄧紫棋所有歌曲暗線解說/我的祕密——鄧紫棋的求救信號.md) 
 
+![alt text](./images/thumbnail.png)
+
 </br>
 
 ## 小說宣傳單
