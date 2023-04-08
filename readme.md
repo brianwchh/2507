@@ -31,8 +31,7 @@
 
 - ## [My 3D sensor project opensource tutorial/我的3D攝像頭創業項目源碼分享及教程影片。 <sub> same solution as Intel's realsense that can solve white wall problem 與Intel的realsense 3D攝像頭用同樣的解決白牆的方案.you can develop your own 3D sensor that is comparable to Intel's realsense.你可以開發一款和Intel的realsense相同性能的3D攝像頭。the algorithm is completely running on FPGA (xilinx zynq7020),it will be a complete example showing you how to accelerate computer vision & deep learning algorithms on FPGA,in the future tutorial I will also making tutorials on how to accelerate algrithms on embedded GPU. please stay tune! 這算法完全是FPGA實現，這個教程也是一個用FPGA加速機器視覺與深度學習的很好的實際項目的例子！今後也將慢慢推出用嵌入式GPU加速算法的教程。敬請關注。 https://github.com/brianwchh/grassrootsstartup-ComputerVsion-zynq</sub>](https://github.com/brianwchh/grassrootsstartup-ComputerVsion-zynq) 
 
-- ## [Microsoft ChatGPT's dirty training dataset source 微軟ChatGPT骯髒的訓練數據來源
-<sub></sub>](https://github.com/brianwchh/ChatGPT_mindControl_dataset) 
+- ## [Microsoft ChatGPT's dirty training dataset source 微軟ChatGPT骯髒的訓練數據來源](https://github.com/brianwchh/ChatGPT_mindControl_dataset) 
 
 </br>
 </br>
